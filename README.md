@@ -1,6 +1,6 @@
 # blog_des_familles
 
-Fichier créé grâce à l'aide de la team Lille #Welsh (Anaïs, Mouss' et Vorgine notamment). 
+Fichier créé grâce à l'aide de la team Lille #Welsh (Anaïs, Mouss' et Virginie notamment). 
 
 <h3>Le README est le plus naze de la terre mais je suis claqué car l'exercice consistait à :</h3>
 
