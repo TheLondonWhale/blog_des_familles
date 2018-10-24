@@ -1,6 +1,6 @@
 # blog_des_familles
 
-Ce projet a été réalisé  en collaboration avec <a href = "https://github.com/VVH0">Virginie.VH</a> (@VVH), <a href = "https://github.com/anais-dlgt">Anaïs.D</a> (@Anaïs), <a href = "https://github.com/TheLondonWhaleThomas.P">Thomas.P</a> (@ Thomas Prs TIW), <a href = "https://github.com/Kirimari">Mustapha.AO</a> (@Mouss), 
+Ce projet a été réalisé  en collaboration avec <a href = "https://github.com/VVH0">Virginie.VH</a> (@VVH), <a href = "https://github.com/anais-dlgt">Anaïs.D</a> (@Anaïs), <a href = "https://github.com/Kirimari">Mustapha.AO</a> (@Mouss), 
 qui représentent la team Lilloise #WELSH de The Hacking Project. 
 
 <h3>l'exercice consistait à :</h3>
